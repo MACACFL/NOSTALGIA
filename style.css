@@ -1,0 +1,85 @@
+@font-face {
+    font-family: PressStart2P;
+    src: url('fonts/PressStart2P-Regular.ttf') format(truetype);
+}
+@media screen and (min-width: 320px) and (max-width:480px) {
+    
+    
+}
+body{
+    background-image: url(https://www.cambiadeso.es/wp-content/uploads/2013/03/1283223082465.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color:gold;
+    text-align: center;
+    font-family: PressStart2P;
+    text-shadow: 4px 4px 4px #000000;
+    letter-spacing: 2px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 12px;
+    display: inline-block;
+    display: table;
+    margin: 0px auto 0px;
+}
+h2{
+    color:gold;
+    font-family: PressStart2P;
+    letter-spacing: 2px;
+    line-height: 1.6em;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-shadow: 4px 4px 4px #000000;
+    border-radius: 10px;
+    padding: 3%;
+}
+h3{
+ color:gold;
+    font-family: PressStart2P;
+    letter-spacing: 2px;
+    line-height: 1.6em;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-shadow: 4px 4px 4px #000000;
+    border-radius: 10px;
+    padding: 3%;
+    font-size: 140%;
+}
+.fnaf{
+   float: right;
+      margin: 0 0 15px 15px;
+      width: 200px;
+      border-radius: 10px;
+      box-shadow: 0px 0px 10px black;
+      border: 5px solid gold;
+}
+.video1{
+    background-color: #7f169980;
+    border-radius: 10px;
+     padding: 1%;
+}
+.video2{
+    background-color: #3ae0ca80;
+    border-radius: 10px;
+     padding: 1%;
+}
+.HOME{
+  font-family: 'PressStart2P';
+  background-color: #8e44ad;
+  color: white;
+  font-size: 23px;
+  border: 2px solid #ffffff;
+  position: fixed;
+  writing-mode: vertical-rl; 
+  text-orientation: upright;
+}
+.HOME:hover{
+     transform: translateY(2px);
+  box-shadow: 0 0 5px rgb(19, 226, 192);
+}
+
+
+
+   
+
